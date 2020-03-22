@@ -1,8 +1,16 @@
 # My Costar Case
 ---
-![Costar Logo](./Costar-logo-3.png "Logo")
+
+!{]()https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.underconsideration.com%2Fbrandnew%2Farchives%2FCoStar_Group_logo.png&imgrefurl=https%3A%2F%2Fwww.underconsideration.com%2Fbrandnew%2Farchives%2Fnew_logo_and_identity_for_costar_group_by_interbrand.php&tbnid=CWJomWeVE-gUhM&vet=12ahUKEwjQh8qeha_oAhVQR6wKHfRKBVcQMygCegUIARDfAQ..i&docid=xqxNZMXSBz9IJM&w=1000&h=416&q=costar%20images&hl=en&ved=2ahUKEwjQh8qeha_oAhVQR6wKHfRKBVcQMygCegUIARDfAQ
+
+
+!{}(https://www.google.com/imgres?imgurl=http%3A%2F%2Fblog.corfac.com%2Fwp-content%2Fuploads%2F2014%2F02%2FSponsor-Banner-2.24.2014.png&imgrefurl=https%3A%2F%2Fwww.corfac.com%2Fblog%2F2014%2F02%2F24%2Fpacific-office-automation-the-costar-group-to-sponsor%2F&tbnid=nA_nKeeJennn1M&vet=12ahUKEwjkzaDjha_oAhUQOKwKHQBCCpUQMygZegQIARAo..i&docid=4W-hrwr78hO5KM&w=1325&h=558&itg=1&q=costar%20images&hl=en&ved=2ahUKEwjkzaDjha_oAhUQOKwKHQBCCpUQMygZegQIARAo)
+
+
 {Costar's Home Page} (https://Costar.Com)
-The company was founded in 1987 by Andrew Florance and incorporated in 1998. The idea of the company came about because Mr. Florance, who was a broker at the time, became frustrated with the quality and amount of real estate information that was available; therefore, Mr. Florance came up with the the idea to centralize information by calling all of the brokers and then making all of the information available to subscribers. This allowed for economies of scale to work so that brokers could eliminate the research staffs and obtain more accurate and comprehensive information that would be less expensive. The comparny is funded by public and private investors. The amount of money received is $144 million.
+
+
+The company was founded in 1987 by Andrew Florance and incorporated in 1998. The idea of the company came about because Mr. Florance, who was a broker at the time, became frustrated with the quality and amount of real estate information that was available; therefore, Mr. Florance came up with the the idea to centralize information by calling all of the brokers and then making all of the information available to subscribers. This allowed for economies of scale to work so that brokers could eliminate the research staffs and obtain more accurate and comprehensive information that would be less expensive. The comparny is funded by public and private investors. The amount of money received is $144 million (Bowman 2015)
 
 #**Business Activities**
 ---
@@ -26,7 +34,12 @@ If I were advising Costar, I would suggests that the company offers services tha
 
 This product would benefit the company because it could provide their primary product users with a product that would help them to spend more time selling and appraising property. The results would be increased membership and fees for the company. 
 
-The technology is appropriate for the solution because it targets a profession that is built on quality information that can be provided in a timely manner.
+The technology is appropriate for the solution because it targets a profession that is built on quality information that can be provided in a timely manner (Sernovitz 2019).
+---
 
 
+Works Cited
 
+Jeremy Bowman (2019) Why Costar Stock Surged 24% Through the First Half of 2019. Retrieved from Fools.Com
+
+Daniel J Sernovitz (2019) Costar to cut nearly 100 jobs as part of realignment. Biz Journal.com
